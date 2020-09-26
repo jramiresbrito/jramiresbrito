@@ -23,6 +23,10 @@ Badges from the courses I've completed at [Learn Enough Society](https://www.lea
 
 <a href="https://www.learnenough.com/certificates/joaoramires" target="_blank"><img src="https://www.learnenough.com/certificates/joaoramires/git-tutorial.svg" alt="Certificate of Completion for Learn Enough Git"></a>
 
+Design Thinking & Business: Design Driven Innovation [Pontifical Catholic University of Minas Gerais](https://www.pucminas.br/)
+
+<a href="https://drive.google.com/file/d/1HRliwjWpq3avhIQ7NIQUM4liy0GYGc7e/view?usp=sharing" target="_blank"><img src="https://minionupucmg.files.wordpress.com/2017/03/logo-puc.jpg" width="110" height="110"></a>
+
 Scrum Foundation Professional Certificate Issued by <a href="https://www.youracclaim.com/org/certiprof" target="_blank">Certiproof</a>
 
 <a href="https://www.youracclaim.com/badges/504a54fb-b79e-4dd5-aa88-27b9ff4327f9/public_url" target="_blank"><img class="share-ui__badge-image" src="https://images.youracclaim.com/size/220x220/images/c2ddc533-ba6c-464d-a69d-f9f28177176b/CertiProf-Badge-SFPC.png" alt="Scrum Foundation Professional Certificate" width="110" height="110"></a>
