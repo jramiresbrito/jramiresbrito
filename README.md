@@ -4,7 +4,7 @@
 - 🔭 I’m founder and software engineer at [Rapidex](https://rapidex.dev) and [Flash Freela](https://www.flashfreela.com). I'm also teacher at [Le Wagon](https://www.lewagon.com) fullstack bootcamp.
 - 🌱 I’m currently learning advanced Ruby and Ruby on Rails and want a lot to start to learn Elixir and Phoenix.
 - 💬 Ask me about JavaScript, React, React Native, Ruby, Rails, PostgreSQL, MongoDB, Heroku.
-- 📫 How to reach me: [linked in](https://rapidex.dev)
+- 📫 How to reach me: [Linked In](https://www.linkedin.com/in/joaoramires/)
 - ⚡ I'm looking for international work opportunities as a software engineer.
 
 Graduated at [Le Wagon](https://www.lewagon.com) fullstack bootcamp - Ruby, Rails, JavaScript (ES6+), PostgreSQL
