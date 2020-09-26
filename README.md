@@ -1,11 +1,11 @@
 ### Hi there 👋
 #### I am João Victor Ramires
 
-- 💻 I’m founder and software engineer at [Rapidex](https://rapidex.dev) and [Flash Freela](https://www.flashfreela.com). I'm also teacher at [Le Wagon](https://www.lewagon.com) fullstack bootcamp.
-- 📕 I’m currently recording and producing a Data Structures and Algorithms course (I intent to release in 2020!), learning advanced Ruby and Ruby on Rails. I also want a lot to start to learn Elixir and Phoenix.
-- ❓ Ask me about JavaScript, React, React Native, Ruby, Rails, PostgreSQL, MongoDB, Heroku.
-- 📫 How to reach me: [Linked In](https://www.linkedin.com/in/joaoramires/)
-- 🎯 I'm looking for international work opportunities as a software engineer.
+💻   I’m founder and software engineer at [Rapidex](https://rapidex.dev) and [Flash Freela](https://www.flashfreela.com). I'm also teacher at [Le Wagon](https://www.lewagon.com) fullstack bootcamp.  
+📕   I’m currently recording and producing a Data Structures and Algorithms course (I intent to release in 2020!), learning advanced Ruby and Ruby on Rails. I also want a lot to start to learn Elixir and Phoenix.  
+❓   Ask me about JavaScript, React, React Native, Ruby, Rails, PostgreSQL, MongoDB, Heroku.  
+📫  How to reach me: [Linked In](https://www.linkedin.com/in/joaoramires/)  
+🎯  I'm looking for international work opportunities as a software engineer.
 
 Graduated at [Le Wagon](https://www.lewagon.com) fullstack bootcamp - Ruby, Rails, JavaScript (ES6+), PostgreSQL
 
