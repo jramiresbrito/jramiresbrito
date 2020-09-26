@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### I am João Victor Ramires
 
-- 🔭 I’m founder and software enginner at [Rapidex](https://rapidex.dev) and teacher at [Le Wagon](https://www.lewagon.com) fullstack bootcamp.
+- 🔭 I’m founder and software engineer at [Rapidex](https://rapidex.dev) and teacher at [Le Wagon](https://www.lewagon.com) fullstack bootcamp.
 - 🌱 I’m currently learning advanced Ruby and Ruby on Rails and want a lot to start to learn Elixir and Phoenix.
 - 💬 Ask me about JavaScript, React, React Native, Ruby, Rails, PostgreSQL, MongoDB, Heroku.
 - 📫 How to reach me: [linked in](https://rapidex.dev)
