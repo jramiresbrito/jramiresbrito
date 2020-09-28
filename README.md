@@ -21,7 +21,7 @@ Graduated at [IGTI](https://www.igti.com.br/) Data Analysis bootcamp
 
 Badges from the courses I've completed at [Learn Enough Society](https://www.learnenough.com/) by [Michael Hartl](https://github.com/mhartl)
 
-<a href="https://www.learnenough.com/certificates/joaoramires"><img src="https://www.learnenough.com/certificates/joaoramires/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a><a href="https://www.learnenough.com/certificates/joaoramires"><img src="https://www.learnenough.com/certificates/joaoramires/git-tutorial.svg" alt="Certificate of Completion for Learn Enough Git"></a>
+<a href="https://www.learnenough.com/certificates/joaoramires"><img src="https://www.learnenough.com/certificates/joaoramires/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a><a href="https://www.learnenough.com/certificates/joaoramires"><img src="https://www.learnenough.com/certificates/joaoramires/git-tutorial.svg" alt="Certificate of Completion for Learn Enough Git"></a><a href="https://www.learnenough.com/certificates/joaoramires"><img src="https://www.learnenough.com/certificates/joaoramires/ruby-tutorial.svg" alt="Certificate of Completion for Learn Enough Ruby"></a>
 
 Design Thinking & Business: Design Driven Innovation [Pontifical Catholic University of Minas Gerais](https://www.pucminas.br/)
 
