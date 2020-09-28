@@ -5,7 +5,7 @@
 📕   I’m currently recording and producing a Data Structures and Algorithms course (I intent to release in 2020!), learning advanced Ruby and Ruby on Rails. I also want a lot to start to learn Elixir and Phoenix.  
 ❓   Ask me about JavaScript, React, React Native, Ruby, Rails, PostgreSQL, MongoDB, Heroku.  
 📫  How to reach me: [Linked In](https://www.linkedin.com/in/joaoramires/)  
-🎯  I'm looking for international work opportunities as a software engineer.
+🎯  I'm open to opportunities to work as software engineer.
 
 Graduated at [Le Wagon](https://www.lewagon.com) fullstack bootcamp - Ruby, Rails, JavaScript (ES6+), PostgreSQL
 
