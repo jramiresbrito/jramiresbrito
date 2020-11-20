@@ -19,6 +19,10 @@ Graduated at [IGTI](https://www.igti.com.br/) Data Analysis bootcamp
 
 <a href="https://drive.google.com/file/d/1T-iWXP4G926i9HNncAOlggJ-0VlTsHGe/view?usp=sharing" target="_blank"><img src="https://www.igti.com.br/wp-content/themes/wp-bootstrap-4/assets/images/logos/logo-green.png"></a>
 
+Graduated at [IGTI](https://www.igti.com.br/) Software Architecture bootcamp
+
+<a href="https://drive.google.com/file/d/12tSpj831mSwWc64yRG6yUC8H1_5yHzSf/view" target="_blank"><img src="https://www.igti.com.br/wp-content/themes/wp-bootstrap-4/assets/images/logos/logo-green.png"></a>
+
 Badges from the courses I've completed at [Learn Enough Society](https://www.learnenough.com/) by [Michael Hartl](https://github.com/mhartl)
 
 <a href="https://www.learnenough.com/certificates/joaoramires"><img src="https://www.learnenough.com/certificates/joaoramires/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a><a href="https://www.learnenough.com/certificates/joaoramires"><img src="https://www.learnenough.com/certificates/joaoramires/git-tutorial.svg" alt="Certificate of Completion for Learn Enough Git"></a><a href="https://www.learnenough.com/certificates/joaoramires"><img src="https://www.learnenough.com/certificates/joaoramires/ruby-tutorial.svg" alt="Certificate of Completion for Learn Enough Ruby"></a><a href="https://www.learnenough.com/certificates/joaoramires"><img src="https://www.learnenough.com/certificates/joaoramires/ruby-on-rails-6th-edition-tutorial.svg" alt="Certificate of Completion for The Ruby on Rails Tutorial, 6th Ed."></a>
