@@ -3,7 +3,7 @@
 
 💻   I’m currently working as freelancer Software Enginner. I'm also teacher at [Le Wagon](https://www.lewagon.com) fullstack bootcamp.  
 📕   I’m currently recording and producing a Data Structures and Algorithms course, learning advanced Elixir, Phoenix, Ruby and Ruby on Rails.
-❓   Ask me about JavaScript, React, React Native, Ruby, Rails, PostgreSQL, MongoDB, Heroku.  
+❓   Ask me about JavaScript, React, Elixir, Phoenix, Ruby, Rails, PostgreSQL, MongoDB, Heroku.  
 📫  How to reach me: [Linked In](https://www.linkedin.com/in/joaoramires/)  
 🎯  I'm open to opportunities to work as Software Enginner.
 
