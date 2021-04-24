@@ -1,9 +1,9 @@
 ### Hi there 👋
 #### I am João Victor Ramires
 ## Intro
-💻   I’m currently working as freelancer Software Enginner and Teacher at [Le Wagon](https://www.lewagon.com) fullstack bootcamp.  
-📕   I’m currently recording and producing a Data Structures and Algorithms course, learning advanced Elixir, Phoenix, Ruby and Ruby on Rails.
-❓   Ask me about JavaScript, React, Elixir, Phoenix, Ruby, Rails, PostgreSQL, MongoDB, Heroku.  
+💻   I’m currently working as fullstack Software Enginner at [Peerdustry](http://peerdustry.com.br/) and Teacher at [Le Wagon](https://www.lewagon.com) fullstack bootcamp.  
+📕   I’m currently recording and producing a Data Structures and Algorithms course, learning Ember, Elixir, Phoenix, Ruby and Ruby on Rails.  
+❓   Ask me about JavaScript, Ember.js, Ruby, Rails, PostgreSQL, MongoDB, Heroku.  
 📫  How to reach me: [Linked In](https://www.linkedin.com/in/joaoramires/)  
 🎯  I'm open to opportunities to work as Software Enginner.
 
