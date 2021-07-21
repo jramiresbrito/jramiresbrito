@@ -14,15 +14,15 @@ Graduated at [Le Wagon](https://www.lewagon.com) fullstack bootcamp - Ruby, Rail
 
 Graduated at [IGTI](https://www.igti.com.br/) fullstack bootcamp - JavaScript (ES6+), Node.js, React, MongoDB
 
-<a href="https://drive.google.com/file/d/1CuNjH6DSMwLI-8zxuv2uxsDo8gRgfMHW/view?usp=sharing" target="_blank"><img src="https://www.igti.com.br/wp-content/themes/wp-bootstrap-4/assets/images/logos/logo-green.png"></a>
+<a href="https://drive.google.com/file/d/1CuNjH6DSMwLI-8zxuv2uxsDo8gRgfMHW/view?usp=sharing" target="_blank"><img src="https://irp.cdn-website.com/dbd26f15/dms3rep/multi/logo_igti_2021.svg" width="110" height="110"></a>
 
 Graduated at [IGTI](https://www.igti.com.br/) Data Analysis bootcamp
 
-<a href="https://drive.google.com/file/d/1T-iWXP4G926i9HNncAOlggJ-0VlTsHGe/view?usp=sharing" target="_blank"><img src="https://www.igti.com.br/wp-content/themes/wp-bootstrap-4/assets/images/logos/logo-green.png"></a>
+<a href="https://drive.google.com/file/d/1T-iWXP4G926i9HNncAOlggJ-0VlTsHGe/view?usp=sharing" target="_blank"><img src="https://irp.cdn-website.com/dbd26f15/dms3rep/multi/logo_igti_2021.svg" width="110" height="110"></a>
 
 Graduated at [IGTI](https://www.igti.com.br/) Software Architecture bootcamp
 
-<a href="https://drive.google.com/file/d/12tSpj831mSwWc64yRG6yUC8H1_5yHzSf/view" target="_blank"><img src="https://www.igti.com.br/wp-content/themes/wp-bootstrap-4/assets/images/logos/logo-green.png"></a>
+<a href="https://drive.google.com/file/d/12tSpj831mSwWc64yRG6yUC8H1_5yHzSf/view" target="_blank"><img src="https://irp.cdn-website.com/dbd26f15/dms3rep/multi/logo_igti_2021.svg" width="110" height="110"></a>
 
 Badges from the courses I've completed at [Learn Enough Society](https://www.learnenough.com/) by [Michael Hartl](https://github.com/mhartl)
 
