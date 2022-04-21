@@ -7,6 +7,11 @@
 📫  How to reach me: [Linked In](https://www.linkedin.com/in/joaoramires/)  
 🎯  I'm open to opportunities to work as Software Enginner.
 
+## Some cool personal (a.k.a freelancing) projects (VIDEO DEMO IN PORTUGUESE)
+🏠[Hub do Imóvel](https://drive.google.com/file/d/1wKS3ecPoDECoY7PCA7WJksW6uCkw304A/view) - A Startup for buy, sell real state properties and related services.  
+💵[Flash Freela](https://drive.google.com/file/d/1IRMW_GipycmqX2MrTZO383ziSmE65yPZ/view) - A Startup to hire in real time freelancers for the gastronomic niche.  
+👩🏽‍💻[Seu PC](https://drive.google.com/file/d/12T9r_vgG4pM4FekcxIy6vlgAJIQuRvnH/view) - A Startup to find the best offers in notebooks.  
+
 ## Education and Achievements
 Graduated at [Le Wagon](https://www.lewagon.com) fullstack bootcamp - Ruby, Rails, JavaScript (ES6+), PostgreSQL
 
