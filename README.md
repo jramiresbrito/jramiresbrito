@@ -7,10 +7,26 @@
 📫  How to reach me: [Linked In](https://www.linkedin.com/in/joaoramires/)  
 🎯  I'm open to opportunities to work as Software Enginner.
 
-## Some cool personal (a.k.a freelancing) projects (VIDEO DEMO IN PORTUGUESE)
+## Some freelancing projects (VIDEO DEMO IN PORTUGUESE) (All build with Rails + Javascript + PostgreSQL + Heroku)
 🏠[Hub do Imóvel](https://drive.google.com/file/d/1wKS3ecPoDECoY7PCA7WJksW6uCkw304A/view) - A Startup for buy, sell real state properties and related services.  
 💵[Flash Freela](https://drive.google.com/file/d/1IRMW_GipycmqX2MrTZO383ziSmE65yPZ/view) - A Startup to hire in real time freelancers for the gastronomic niche.  
 👩🏽‍💻[Seu PC](https://drive.google.com/file/d/12T9r_vgG4pM4FekcxIy6vlgAJIQuRvnH/view) - A Startup to find the best offers in notebooks.  
+
+## Some cool projects for POC/Studies
+📈[Brokers API](https://github.com/jramiresbrito/brokers-api) An API to simulate an investment broker, this communicates with [Exchange API](https://github.com/jramiresbrito/exchange-api) - Built with Rails, Mongo DB, Whisper and RabbitMQ. This projec was developed during Distributed Systems course at my graduation.  
+📉[Exchange API](https://github.com/jramiresbrito/exchange-api) An API to simulate an investment Exchange house like the brazilian [B3](https://www.b3.com.br/en_us/) - Built with Rails, MongoDB, Whisper and RabbitMQ. This projec was developed during Distributed Systems course at my graduation.  
+🚛[Fleet Management System](https://github.com/jramiresbrito/transports) A Rails monolith application to help companies to manage their transport fleet. Developed during OOP Course at my graduation.  
+📊[Rocket Pay](https://github.com/jramiresbrito/rocketpay) A Fintech Like API with simulates an Bank Account. This APP was built with Elixir and Phoenix Framework. [Functional Programming](https://en.wikipedia.org/wiki/Functional_programming) is fun :)  
+🤘🏽[Ember Rock & Roll](https://github.com/jramiresbrito/portfolio-frontend-ember-rock-and-roll) An APP to manage the favorite music/bands. This is a cool but simple project build with Ember.js.  
+⚛️[Redux Chat](https://github.com/jramiresbrito/redux-chat) Simple live chat built with React and Redux. Why not? :P  
+🦸🏽[Spiderman](https://github.com/jramiresbrito/portfolio-frontend-spiderman) A [landing page](https://jramiresbrito.github.io/portfolio-frontend-spiderman/index.html) to play a bit with CSS and [Motion Design](https://en.wikipedia.org/wiki/Motion_graphic_design)  
+🧑🏽‍💻[Wikipedia Shell Script](https://github.com/jramiresbrito/wikipedia_shell_script) This simple shell script written in Ruby receives a Wikipedia URL as param, scrap it's content cleaning the paragraphs and returning them.  
+🕸️[Recipes Web Scrap](https://github.com/jramiresbrito/recipes-web-scraper) This project is a dead simple web scraping using Ruby and Nokogiri Gem. It queries recipes at epicurious.com for a given ingredient provided by user.  
+👩🏽‍[HR APP](https://github.com/jramiresbrito/grad_work_lab_pm_5) Built during my Modular Programming classes at my graduation, this pure Ruby app (no Rails) implements by hand the [MVC architecture](https://pt.wikipedia.org/wiki/MVC) and the [Repository Pattern](https://martinfowler.com/eaaCatalog/repository.html) without use any framework. It also has features like:
+- Employee Management
+- Session
+- Basic Password encryptation
+- Data persistance using CSV files
 
 ## Education and Achievements
 Graduated at [Le Wagon](https://www.lewagon.com) fullstack bootcamp - Ruby, Rails, JavaScript (ES6+), PostgreSQL
