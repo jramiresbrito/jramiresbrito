@@ -4,8 +4,7 @@
 💻   I’m currently working as fullstack Software Enginner at [Peerdustry](http://peerdustry.com.br/) and Teacher at [Le Wagon](https://www.lewagon.com) fullstack bootcamp.  
 📕   I’m currently recording a Data Structures and Algorithms course, learning Ember, Elixir, Phoenix, Ruby and Ruby on Rails.  
 ❓   Ask me about JavaScript, Ember.js, Ruby, Rails, PostgreSQL, MongoDB, Heroku.  
-📫  How to reach me: [Linked In](https://www.linkedin.com/in/joaoramires/)  
-🎯  I'm open to opportunities to work as Software Enginner.
+📫  How to reach me: [Linked In](https://www.linkedin.com/in/joaoramires/)
 
 ## Some freelancing projects (VIDEO DEMO IN PORTUGUESE) (All build with Rails + Javascript + PostgreSQL + Heroku)
 🏠[Hub do Imóvel](https://drive.google.com/file/d/1wKS3ecPoDECoY7PCA7WJksW6uCkw304A/view) - A Startup for buy, sell real state properties and related services.  
