@@ -1,10 +1,10 @@
 ### Hi there 👋
 #### I am João Victor Ramires
 ## Intro
-💻   I’m currently working as fullstack Software Enginner at [Peerdustry](http://peerdustry.com.br/) and Teacher at [Le Wagon](https://www.lewagon.com) fullstack bootcamp.  
-📕   I’m currently recording a Data Structures and Algorithms course, learning Ember, Elixir, Phoenix, Ruby and Ruby on Rails.  
-❓   Ask me about JavaScript, Ember.js, Ruby, Rails, PostgreSQL, MongoDB, Heroku.  
-📫  How to reach me: [Linked In](https://www.linkedin.com/in/joaoramires/)
+💻   I’m currently working as fullstack Software Enginner at <a href="https://www.blueonionlabs.com/" target="_blank">Blue Onion Labs</a>
+📕   I’m currently learning React, Ember, Data Engineering, PostgreSQL & Ruby on Rails.  
+❓   Ask me about JavaScript, React, Ember, Ruby, Ruby on Rails, PostgreSQL, MongoDB, Heroku.  
+📫  How to reach me: <a href="https://www.linkedin.com/in/joaoramires/" target="_blank">LinkedIn</a>
 
 ## Some freelancing projects (VIDEO DEMO IN PORTUGUESE) (All build with Rails + Javascript + PostgreSQL + Heroku)
 🏠[Hub do Imóvel](https://drive.google.com/file/d/1wKS3ecPoDECoY7PCA7WJksW6uCkw304A/view) - A Startup for buy, sell real state properties and related services.  
@@ -28,28 +28,28 @@
 - Data persistance using CSV files
 
 ## Education and Achievements
-Graduated at [Le Wagon](https://www.lewagon.com) fullstack bootcamp - Ruby, Rails, JavaScript (ES6+), PostgreSQL
+Graduated at <a href="https://www.lewagon.com" target="_blank">Le Wagon</a> fullstack bootcamp - Ruby, Rails, JavaScript (ES6+), PostgreSQL
 
 <a href="https://drive.google.com/file/d/1qBk6nIaCgZap9s-SHB4qOcklmCMMqFR2/view?usp=sharing" target="_blank"><img class="collectionHeader-logoImage js-collectionHeaderLogoImage" src="https://cdn-images-1.medium.com/max/175/1*m5pPwY88GcJ0zBxfYI6SBQ@2x.png" data-image-id="1*m5pPwY88GcJ0zBxfYI6SBQ@2x.png" width="110" height="110"></a>
 
-Graduated at [IGTI](https://www.igti.com.br/) fullstack bootcamp - JavaScript (ES6+), Node.js, React, MongoDB
+Graduated at <a href="https://www.igti.com.br" target="_blank">IGTI</a> fullstack bootcamp - JavaScript (ES6+), Node.js, React, MongoDB
 
 <a href="https://drive.google.com/file/d/1CuNjH6DSMwLI-8zxuv2uxsDo8gRgfMHW/view?usp=sharing" target="_blank"><img src="https://irp.cdn-website.com/dbd26f15/dms3rep/multi/logo_igti_2021.svg" width="110" height="110"></a>
 
-Graduated at [IGTI](https://www.igti.com.br/) Data Analysis bootcamp
+Graduated at <a href="https://www.igti.com.br" target="_blank">IGTI</a> Data Analysis bootcamp
 
 <a href="https://drive.google.com/file/d/1T-iWXP4G926i9HNncAOlggJ-0VlTsHGe/view?usp=sharing" target="_blank"><img src="https://irp.cdn-website.com/dbd26f15/dms3rep/multi/logo_igti_2021.svg" width="110" height="110"></a>
 
-Graduated at [IGTI](https://www.igti.com.br/) Software Architecture bootcamp
+Graduated at <a href="https://www.igti.com.br" target="_blank">IGTI</a> Software Architecture bootcamp
 
 <a href="https://drive.google.com/file/d/12tSpj831mSwWc64yRG6yUC8H1_5yHzSf/view" target="_blank"><img src="https://irp.cdn-website.com/dbd26f15/dms3rep/multi/logo_igti_2021.svg" width="110" height="110"></a>
 
 Badges from the courses I've completed at [Learn Enough Society](https://www.learnenough.com/) by [Michael Hartl](https://github.com/mhartl)
 
-<a href="https://www.learnenough.com/certificates/joaoramires"><img src="https://www.learnenough.com/certificates/joaoramires/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a><a href="https://www.learnenough.com/certificates/joaoramires"><img src="https://www.learnenough.com/certificates/joaoramires/git-tutorial.svg" alt="Certificate of Completion for Learn Enough Git"></a><a href="https://www.learnenough.com/certificates/joaoramires"><img src="https://www.learnenough.com/certificates/joaoramires/ruby-tutorial.svg" alt="Certificate of Completion for Learn Enough Ruby"></a><a href="https://www.learnenough.com/certificates/joaoramires"><img src="https://www.learnenough.com/certificates/joaoramires/ruby-on-rails-6th-edition-tutorial.svg" alt="Certificate of Completion for The Ruby on Rails Tutorial, 6th Ed."></a>
+<a href="https://www.learnenough.com/certificates/joaoramires" target="_blank"><img src="https://www.learnenough.com/certificates/joaoramires/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a><a href="https://www.learnenough.com/certificates/joaoramires" target="_blank"><img src="https://www.learnenough.com/certificates/joaoramires/git-tutorial.svg" alt="Certificate of Completion for Learn Enough Git"></a><a href="https://www.learnenough.com/certificates/joaoramires" target="_blank"><img src="https://www.learnenough.com/certificates/joaoramires/ruby-tutorial.svg" alt="Certificate of Completion for Learn Enough Ruby"></a><a href="https://www.learnenough.com/certificates/joaoramires" target="_blank"><img src="https://www.learnenough.com/certificates/joaoramires/ruby-on-rails-6th-edition-tutorial.svg" alt="Certificate of Completion for The Ruby on Rails Tutorial, 6th Ed."></a>
 
-Some courses from [Epic React by Kent Dodds](https://epicreact.dev/)
-* [React Fundmentals Workshop](https://drive.google.com/file/d/1IlOJAW0gldV2IxGqRukH-O1fk5XN7d2C/view?usp=sharing) ✅
+Some courses from <a href="https://epicreact.dev/" target="_blank">Epic React by Kent Dodds</a>
+* <a href="https://drive.google.com/file/d/1IlOJAW0gldV2IxGqRukH-O1fk5XN7d2C/view?usp=sharing" target="_blank">React Fundmentals Workshop ✅</a>
 
 Design Thinking & Business: Design Driven Innovation [Pontifical Catholic University of Minas Gerais](https://www.pucminas.br/)
 
