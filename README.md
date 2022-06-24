@@ -1,10 +1,10 @@
 ### Hi there 👋
 #### I am João Victor Ramires
 ## Intro
-💻   I’m currently working as fullstack Software Enginner at <a href="https://www.blueonionlabs.com/" target="_blank">Blue Onion Labs</a>
+💻   I’m currently working as fullstack Software Enginner at <a href="https://www.blueonionlabs.com/" target="_blank">Blue Onion Labs</a>.  
 📕   I’m currently learning React, Ember, Data Engineering, PostgreSQL & Ruby on Rails.  
 ❓   Ask me about JavaScript, React, Ember, Ruby, Ruby on Rails, PostgreSQL, MongoDB, Heroku.  
-📫  How to reach me: <a href="https://www.linkedin.com/in/joaoramires/" target="_blank">LinkedIn</a>
+📫  How to reach me: <a href="https://www.linkedin.com/in/joaoramires/" target="_blank">LinkedIn</a>.
 
 ## Some freelancing projects (VIDEO DEMO IN PORTUGUESE) (All build with Rails + Javascript + PostgreSQL + Heroku)
 🏠[Hub do Imóvel](https://drive.google.com/file/d/1wKS3ecPoDECoY7PCA7WJksW6uCkw304A/view) - A Startup for buy, sell real state properties and related services.  
