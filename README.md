@@ -48,6 +48,9 @@ Badges from the courses I've completed at [Learn Enough Society](https://www.lea
 
 <a href="https://www.learnenough.com/certificates/joaoramires"><img src="https://www.learnenough.com/certificates/joaoramires/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a><a href="https://www.learnenough.com/certificates/joaoramires"><img src="https://www.learnenough.com/certificates/joaoramires/git-tutorial.svg" alt="Certificate of Completion for Learn Enough Git"></a><a href="https://www.learnenough.com/certificates/joaoramires"><img src="https://www.learnenough.com/certificates/joaoramires/ruby-tutorial.svg" alt="Certificate of Completion for Learn Enough Ruby"></a><a href="https://www.learnenough.com/certificates/joaoramires"><img src="https://www.learnenough.com/certificates/joaoramires/ruby-on-rails-6th-edition-tutorial.svg" alt="Certificate of Completion for The Ruby on Rails Tutorial, 6th Ed."></a>
 
+Some courses from [Epic React by Kent Dodds](https://epicreact.dev/)
+* [React Fundmentals Workshop](https://drive.google.com/file/d/1IlOJAW0gldV2IxGqRukH-O1fk5XN7d2C/view?usp=sharing) ✅
+
 Design Thinking & Business: Design Driven Innovation [Pontifical Catholic University of Minas Gerais](https://www.pucminas.br/)
 
 <a href="https://drive.google.com/file/d/1HRliwjWpq3avhIQ7NIQUM4liy0GYGc7e/view?usp=sharing" target="_blank"><img src="https://minionupucmg.files.wordpress.com/2017/03/logo-puc.jpg" width="110" height="110"></a>
