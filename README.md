@@ -50,6 +50,7 @@ Badges from the courses I've completed at [Learn Enough Society](https://www.lea
 
 Some courses from <a href="https://epicreact.dev/" target="_blank">Epic React by Kent Dodds</a>
 * <a href="https://drive.google.com/file/d/1IlOJAW0gldV2IxGqRukH-O1fk5XN7d2C/view?usp=sharing" target="_blank">React Fundmentals Workshop ✅</a>
+* <a href="https://drive.google.com/file/d/1xMlNNrFGqLHan356YYMYAIRwov-581vF/view?usp=sharing" target="_blank">React Hooks Workshop ✅</a>
 
 Design Thinking & Business: Design Driven Innovation [Pontifical Catholic University of Minas Gerais](https://www.pucminas.br/)
 
