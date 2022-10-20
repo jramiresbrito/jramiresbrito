@@ -58,4 +58,4 @@ Design Thinking & Business: Design Driven Innovation [Pontifical Catholic Univer
 
 Scrum Foundation Professional Certificate Issued by <a href="https://www.youracclaim.com/org/certiprof" target="_blank">Certiproof</a>
 
-<a href="https://www.youracclaim.com/badges/504a54fb-b79e-4dd5-aa88-27b9ff4327f9/public_url" target="_blank"><img class="share-ui__badge-image" src="https://images.youracclaim.com/size/220x220/images/c2ddc533-ba6c-464d-a69d-f9f28177176b/CertiProf-Badge-SFPC.png" alt="Scrum Foundation Professional Certificate" width="110" height="110"></a>
+<a href="https://www.youracclaim.com/badges/504a54fb-b79e-4dd5-aa88-27b9ff4327f9/public_url" target="_blank"><img class="share-ui__badge-image" src="https://images.credly.com/size/340x340/images/3be57d7c-55de-4119-9ca9-738e20c0fae0/Scrum-Foundation-Professional-Certificate-SFPC-2021_.png" alt="Scrum Foundation Professional Certificate" width="110" height="110"></a>
